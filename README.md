@@ -13,4 +13,4 @@
 - ["Solving 'dict' object has no attribute" error](https://medium.com/your-link)
 
 📫 Connect with me:
-[LinkedIn](https://linkedin.com/in/khushirajpurohit) • [Portfolio](https://your-streamlit-site.com) • [Medium](https://medium.com/@khushirajpurohit)
+[LinkedIn](https://linkedin.com/in/khushirajpurohit) • [Portfolio](https://your-streamlit-site.com) • [Medium](https://medium.com/@khushirajpurohit) • [Leetcode](https://leetcode.com/u/khushirajpurohit/)
