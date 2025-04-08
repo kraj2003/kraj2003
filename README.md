@@ -1,9 +1,16 @@
-- 👋 Hi, I’m Khushi Rajpurohit
-- 👀 I’m interested in Data science and Machine Learning
-- 🌱 I’m currently learning Advanced Data Science
+# Hi, I'm Khushi Rajpurohit 👋
 
+🎓 BCA Graduate | Aspiring Data Scientist  
+💻 Python | ML | Streamlit | SQL | Tableau | Airflow  |Deep Learning | MLOps
+📊 Turning data into actionable insights  
 
-<!---
-kraj2003/kraj2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔭 Current Projects:
+- Mushroom Classification using ML
+- Streamlit Portfolio Dashboard
+- Text Summarization with HuggingFace + FastAPI
+
+📝 Latest Blog:
+- ["Solving 'dict' object has no attribute" error](https://medium.com/your-link)
+
+📫 Connect with me:
+[LinkedIn](https://linkedin.com/in/khushirajpurohit) • [Portfolio](https://your-streamlit-site.com) • [Medium](https://medium.com/@khushirajpurohit)
