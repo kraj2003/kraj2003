@@ -1,7 +1,7 @@
 # Hi, I'm Khushi Rajpurohit 👋
 
 🎓 BCA Graduate | Aspiring Data Scientist  
-💻 Python | ML | Streamlit | SQL | Tableau | Airflow  |Deep Learning | MLOps
+💻 Python | ML | Streamlit | SQL | Tableau | Airflow  |Deep Learning | MLOps | GEN AI | Computer Vision
 📊 Turning data into actionable insights  
 
 🔭 Current Projects:
