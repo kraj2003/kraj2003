@@ -9,8 +9,7 @@
 - Streamlit Portfolio Dashboard
 - Text Summarization with HuggingFace + FastAPI
 
-📝 Latest Blog:
-- ["Solving 'dict' object has no attribute" error](https://medium.com/your-link)
+
 
 📫 Connect with me:
-[LinkedIn](https://linkedin.com/in/khushirajpurohit) • [Portfolio](https://your-streamlit-site.com) • [Medium](https://medium.com/@khushirajpurohit) • [Leetcode](https://leetcode.com/u/khushirajpurohit/)
+[LinkedIn](https://www.linkedin.com/in/khushi-rajpurohit-240476260/) • [Portfolio](https://your-streamlit-site.com) • [Medium](https://medium.com/@khushirajpurohit2021) • [Leetcode](https://leetcode.com/u/khushirajpurohit/)
